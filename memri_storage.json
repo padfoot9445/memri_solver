@@ -1,0 +1,26 @@
+{
+    "presets":{
+        "car insurance":{
+            "name":"car insurance",
+            "keywords":
+
+             [
+                "Brian", "pays", "275.23", "a", "year", "on", "his", "car", "insurance.", "The", "insurance", "company", "increases", "the", "price", "by", "2.6%.", "How", "much", "does", "the", "insurance", "cost", "now?", "Give", "your", "answer", "rounded", "to", "2", "DP."
+            ],
+            "answer":"282.39"
+
+        },
+        "sixty staff takeaway":{
+            "name":"sixty staff takeaway",
+            "keywords":["Workers", "in", "an", "office", "of", "60", "staff", "were", "asked", "their", "favourite", "type", "of", "take-away.", "The", "results", "are", "summarised", "in", "the", "table.", "Take-away", "Frequency", "Angle", "Pizza", "1", "a", "Curry", "3", "b", "Fish", "&", "chips", "20", "C", "Kebab", "9", "d", "Other", "17", "e", "Work", "out", "the", "size", "of", "each", "angle", "to", "draw", "a", "pie", "chart.", "\na", "\nb", "\nc", "\nd", "\ne"],
+            "answer":"66TAB18TAB120TAB54TAB102"
+        }
+    },
+    "login":{
+        "firstName":"isaac",
+        "lastName":"yip",
+        "day":24,
+        "month":12,
+        "year":2009
+    }
+}
